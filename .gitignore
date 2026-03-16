@@ -1,0 +1,40 @@
+# Binaries
+Binaries/
+*.dll
+*.pdb
+*.lib
+*.exp
+*.obj
+*.o
+*.dylib
+
+# Intermediate
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Build
+Build/
+*_Build.*
+*.VC.db
+*.VC.opendb
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# UE specific
+*.uproject
+!HotPatcher.uplugin
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
